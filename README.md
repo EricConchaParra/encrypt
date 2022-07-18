@@ -9,9 +9,13 @@ Puede utilizarse para guardar información visible de manera segura.
 ![Ejemplo de uso](https://ericconcha.com/wp-content/uploads/2022/07/muestra_encriptador.png)
 
 Ponlo a prueba! descrifra este mensaje:
-`SDJfXUDWaDQVciyf35KxwkUaxJ06LuFhGCkUNoMIsm1BnAV184FkU6DYRwQtsrhV+5s8Z03RlqayyR7vgAXFsvoBC4zkBSnsOBezGGW0tGeW7Foeg/Q7xlEiNUDvp8aFivMZhqZshnok3l66bWKFkqz+clH7gqQeX4FAdjnAMoSYoxHWfBKFgJ8kacrI2LXHuFs/YH4z+yzN5bqa97ttZJ/Tjyo+pnsW3QXQjcs/TMc=`
 
-La keyfrase es: "texto intocable"
+
+```
+SDJfXUDWaDQVciyf35KxwkUaxJ06LuFhGCkUNoMIsm1BnAV184FkU6DYRwQtsrhV+5s8Z03RlqayyR7vgAXFsvoBC4zkBSnsOBezGGW0tGeW7Foeg/Q7xlEiNUDvp8aFivMZhqZshnok3l66bWKFkqz+clH7gqQeX4FAdjnAMoSYoxHWfBKFgJ8kacrI2LXHuFs/YH4z+yzN5bqa97ttZJ/Tjyo+pnsW3QXQjcs/TMc=
+```
+
+La keyphrase es: "texto intocable"
 
 - Escrito en C#
 - Interfaz Windows Forms
