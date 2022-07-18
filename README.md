@@ -6,4 +6,5 @@ El texto no se puede desencriptar a menos que se utilice la misma keyphrase que 
 Puede utilizarse para guardar información visible de manera segura.
 
 Escrito en C#
+
 Interfaz Windows Forms
